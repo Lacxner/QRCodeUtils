@@ -2,9 +2,7 @@
 
 基于Java的二维码编码和解码工具类，可以自定义二维码编码内容、二维码图片大小、Logo图片大小等，同时还可以对二维码图片进行解码。
 
-需要导入Google的ZXing依赖：
-
-[ZXing]: https://mvnrepository.com/artifact/com.google.zxing/core
+需要导入Google的ZXing依赖：https://mvnrepository.com/artifact/com.google.zxing/core
 
 ## 方法
 
